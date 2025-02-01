@@ -10,6 +10,7 @@
 - 🌐 Web: Flask, FastAPI, React  
 
 ## 📌 Featured Projects
+✏️ **[MNIST Digit Recognition](https://github.com/SamueleMoscatelli/mnist-digit-recognition)** – A CNN-based handwritten digit classifier using TensorFlow.  
 🎮 **[Scrabble](https://github.com/SamueleMoscatelli/scrabble-with-trie)** – C++ implementation of the Scrabble game, using the Trie data structure to store allowed words.  
 🌱 **[Clean Run](https://github.com/SamueleMoscatelli/Clean_Run)** – Mobile running tracker with air pollution detection.  
 
