@@ -7,7 +7,7 @@
 - 💻 Languages: Python, Java, JavaScript, C++  
 - 🧠 AI/ML: TensorFlow, Keras, PyTorch  
 - 📊 Data: Pandas, NumPy, Matplotlib  
-- 🌐 Web: Flask, FastAPI, React  
+- 🌐 Web: Flask, React  
 
 ## 📌 Featured Projects
 ✏️ **[MNIST Digit Recognition](https://github.com/SamueleMoscatelli/mnist-digit-recognition)** – A CNN-based handwritten digit classifier using TensorFlow.  
